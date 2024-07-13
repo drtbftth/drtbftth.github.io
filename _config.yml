@@ -26,16 +26,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://drtbftth.github.io"
 
 github:
-  username: tbftth # change to your github username
+  username: # change to your github username
 
 twitter:
-  username: tbftth # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: TBFTTH
-  email: tbftth@duck.com # change to your email address
+  name: 
+  email:  # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:https://i.pinimg.com/736x/3f/98/f1/3f98f134aa1d74d413f16311631f7dc1.jpg
+avatar: https://i.pinimg.com/736x/3f/98/f1/3f98f134aa1d74d413f16311631f7dc1.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
