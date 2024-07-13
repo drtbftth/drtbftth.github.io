@@ -3,10 +3,7 @@ tille: "Các chế phẩm Nitrat trong điều trị hội chứng mạch vành 
 date: 2024-07-13 00:00:01 +0080
 categories: [Tài Liệu Tham Khảo]
 tag: [Dược Lý, Tim Mạch, HSCC]
----
----
-image:
-  lqip: /asset/nitrat.png
+image: /asset/anh/nitrat.png
 ---
 Nitroglycerin là chế phẩm nitrate đầu tiên được William Murrell sử dụng vào năm 1879 để điều trị chứng đau thắt ngực. Các chế phẩm nitrat ngậm dưới lưỡi, tiêm tĩnh mạch và uống được sử dụng trong điều trị hội chứng mạch vành cấp tính. Hầu hết các dữ liệu được công bố đều đến từ bệnh nhân nhồi máu cơ tim (MI), nhưng kết luận sẽ áp dụng cho bệnh nhân bị đau thắt ngực không ổn định.
 
