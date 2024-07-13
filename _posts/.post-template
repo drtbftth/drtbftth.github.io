@@ -3,5 +3,5 @@ $ cat $PROJECT_ROOT/.post-template
 layout: post
 title: This is a new article
 author: User
-summary: Summary of the article
+summary: Mô tả
 ---
