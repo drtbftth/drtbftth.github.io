@@ -8,7 +8,7 @@ order: 4
 {: .prompt-tip }
 ### Xin chào 👋
 
-Tôi là TBFTTH là một bác sĩ chuyên nghành HSCC, tôi cũng là một Blogger nơi bạn có thể tìm thấy tôi [medical.id.vn](medical.id.vn) 🍲🥡
+Tôi là TBFTTH là một bác sĩ chuyên nghành HSCC, tôi cũng là một Blogger nơi bạn có thể tìm thấy tôi
 
 Dưới đây là một vài thông tin liên hệ của tôi. 
 
