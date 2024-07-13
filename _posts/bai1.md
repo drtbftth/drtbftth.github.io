@@ -1,3 +1,0 @@
-helo wordd
-djkkh
-jdkjg
