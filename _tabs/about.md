@@ -2,6 +2,10 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+<author_id>:
+  name: <tbftth>
+  twitter: <tbftth>
+  url: <[homepage_of_author](http://xn--dr-ngc-tl8b.vn/)>
 ---
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
