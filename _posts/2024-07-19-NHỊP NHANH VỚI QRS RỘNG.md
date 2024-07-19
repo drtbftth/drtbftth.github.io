@@ -46,5 +46,6 @@ SVT có thể xuất hiện với phức bộ QRS rộng do dẫn truyền xuôi
 - Đầu tiên là antidromic AVRT trong đó kích hoạt thất xảy ra do dẫn truyền xuôi chiều qua đường phụ và vào lại khi dẫn truyền ngược qua hệ thống AV. Các phức bộ QRS rộng do hoạt động của thất hoàn toàn qua sự dẫn truyền của đường dẫn phụ . Bởi vì đường đi vào của hầu hết các đường phụ là ở phần đáy gần vòng van . Kết quả là trục QRS hướng từ đáy đến đỉnh . Các phức bộ QRS rộng và đều , do phản ánh của cơ chế vào lại là antidromic AVRT .
 
 - Tình huống thứ hai trong đó một SVT có thể xuất hiện với phức hợp QRS rộng do kích thích sớm dẫn xuôi chiều là khi nhịp nhanh nhĩ không phụ thuộc vào đường dẫn truyền phụ nhưng dẫn đến thất thông qua đường dẫn truyền phụ . Ví dụ, rung nhĩ, cuông nhĩ hoặc nhanh nhỉ có thể dẫn xuống thất bằng cả nút AV và đường dẫn truyền phụ . Kết quả là một phức hợp QRS rộng thay đổi hình dạng trong nhịp nhanh. Khi Làm chậm sự dẫn truyền qua nút AV sẽ tăng khả năng dẩn truyền qua đừơng phụ trong kích thích sớm , vì thế có thể gây nguy hiểm do làm tăng nhịp thất . Do đó, các tác nhân gây block nút AV bị chống chỉ định trong các trường hợp nhịp nhanh có kích thích sớm khác hơn antidromic AVRT .
-image: /assets/anh/03.jpg
-image: /assets/anh/04.jpg
+
+![img-description](/assets/anh/03.jpg)
+![img-description](/assets/anh/04.jpg)
